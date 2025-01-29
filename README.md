@@ -68,3 +68,10 @@ Where `N` is the number of hops defined in the problem (in the example, `N = 3`)
 
 This project leverages MapReduce for distributed processing, which makes it suitable for handling large graphs efficiently across a cluster of machines.
 
+
+## Contributors ✨
+- [Mohammad Matin EbrahimiToodeshki](https://github.com/MohammadMatin-EbrahimiToodeshki)
+- [Amir Hossein Kamranpour](https://github.com/AmirKamy)
+- [Amir Hossein Moayedinia](https://github.com/AmirHMN)
+
+Want to contribute? Feel free to open an issue or a pull request! 🚀
