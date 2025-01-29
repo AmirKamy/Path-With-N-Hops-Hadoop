@@ -12,11 +12,17 @@ You need to implement a program that identifies all nodes that are reachable fro
 ### Example:  
 #### Dataset content:
 A B
+
 A C
+
 B C
+
 B D
+
 C E
+
 D F
+
 E D
 
 For `n = 3`, you need to determine all nodes reachable from each node within three steps. For example:
@@ -29,7 +35,9 @@ For `n = 3`, you need to determine all nodes reachable from each node within thr
 
 #### Output:
 A -> D E F
+
 B -> D
+
 C -> F
 
 
